@@ -1,0 +1,6 @@
+{
+  "name": "Clip It",
+  "description": "Universal web form clipper, intelligent form autofill, and digital form studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
